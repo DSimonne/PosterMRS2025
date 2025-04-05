@@ -1,8 +1,8 @@
 # Poster rendering
 
 <p align="center">
-<a href="https://www.dsimonne.eu/Attachments/PosterMRS2025.pdf">
-<img src="https://www.dsimonne.eu/Attachments/PosterMRS2025.png">
+<a href="https://www.dsimonne.eu/Attachments/PosterMRS2025MIT.pdf">
+<img src="https://www.dsimonne.eu/Attachments/PosterMRS2025MIT.png">
 </a>
 </p>
 
